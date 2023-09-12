@@ -19,10 +19,6 @@
 		{
 			"Name": "Water",
 			"Enabled": true
-		},
-		{
-			"Name": "GamepadUMGPlugin",
-			"Enabled": true
 		}
 	]
 }
